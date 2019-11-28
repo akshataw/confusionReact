@@ -1,4 +1,4 @@
-name: Create ConFusion
+name: conFusion
 on:
   push:
     branches:
@@ -18,6 +18,8 @@ jobs:
     - name: Install Packages
       run: npm install
     - name: Deploy to GH Pages
-      run: npm run deploy
-    - name: Notifying Done 
-      run: echo "Done deployment"
+      run: |
+        git config --global user.email "wagheakshu@gmail.com"
+        git config --global user.name "akshataw"
+        git remote set-url origin https://${{process.env.ACCESS_TOKEN}}@github.com/akshataw/confusionReact.git
+        npm run deploy
