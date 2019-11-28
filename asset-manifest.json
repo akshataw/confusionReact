@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/conFusion/static/css/main.42a102a2.chunk.css",
+    "main.js": "/conFusion/static/js/main.006d05a9.chunk.js",
+    "main.js.map": "/conFusion/static/js/main.006d05a9.chunk.js.map",
+    "runtime~main.js": "/conFusion/static/js/runtime~main.cac4731c.js",
+    "runtime~main.js.map": "/conFusion/static/js/runtime~main.cac4731c.js.map",
+    "static/css/2.21b67587.chunk.css": "/conFusion/static/css/2.21b67587.chunk.css",
+    "static/js/2.c592a58f.chunk.js": "/conFusion/static/js/2.c592a58f.chunk.js",
+    "static/js/2.c592a58f.chunk.js.map": "/conFusion/static/js/2.c592a58f.chunk.js.map",
+    "index.html": "/conFusion/index.html",
+    "precache-manifest.a5ea6164de962be3e9057b1a9afc76b8.js": "/conFusion/precache-manifest.a5ea6164de962be3e9057b1a9afc76b8.js",
+    "service-worker.js": "/conFusion/service-worker.js",
+    "static/css/2.21b67587.chunk.css.map": "/conFusion/static/css/2.21b67587.chunk.css.map",
+    "static/css/main.42a102a2.chunk.css.map": "/conFusion/static/css/main.42a102a2.chunk.css.map",
+    "static/media/font-awesome.min.css": "/conFusion/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
