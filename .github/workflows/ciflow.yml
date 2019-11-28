@@ -21,5 +21,5 @@ jobs:
       run: |
         git config --global user.email "wagheakshu@gmail.com"
         git config --global user.name "akshataw"
-        git remote set-url origin https://${{process.env.ACCESS_TOKEN}}@github.com/akshataw/confusionReact.git
+        git remote set-url origin https://41fc30d07ec44417e1a034ca9296af5a3fd0f89b@github.com/akshataw/confusionReact.git
         npm run deploy
